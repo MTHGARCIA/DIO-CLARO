@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=999999&reversal=false"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&pause=1000&color=000000&center=true&width=835&lines=Seja+Bem-Vindo;Welcome)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&pause=1000&color=ffffff&center=true&width=935&lines=Seja+Bem-Vindo;Welcome)
 
 <h3 align=center>Sobre mim</h3> 
 
