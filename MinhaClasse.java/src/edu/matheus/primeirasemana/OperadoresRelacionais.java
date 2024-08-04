@@ -1,4 +1,4 @@
-package edu.matheus.primeirasemana;
+package edu.matheus.primeiraSemana;
 
 public class OperadoresRelacionais {
     public static void main(String[] args) {

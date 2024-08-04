@@ -1,4 +1,4 @@
-package edu.matheus.primeirasemana;
+package edu.matheus.primeiraSemana;
 
 public class OperadorTernario {
 
