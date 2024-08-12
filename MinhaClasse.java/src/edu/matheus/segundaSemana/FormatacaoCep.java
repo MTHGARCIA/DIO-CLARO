@@ -4,7 +4,7 @@ public class FormatacaoCep {
     public static void main(String[] args) {
 
         try {
-            String cepFormatado = formatarCep("23765064");
+            String cepFormatado = formatarCep("2376506");
             System.out.println(cepFormatado);
         } catch (CepInvalidoException e) {
             System.out.println("O cep não corresponde a formma valida.");
