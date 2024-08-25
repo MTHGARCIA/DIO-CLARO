@@ -14,3 +14,5 @@
 1724095500164	Rename type 'ListaTarefa'
 1724095520840	Delete element
 1724095527030	Rename type 'CarrinhoDeCompras'
+1724473152239	Extract local variable 'i'
+1724473174016	Delete element
