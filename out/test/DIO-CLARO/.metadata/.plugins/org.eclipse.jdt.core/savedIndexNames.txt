@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\MTH\Desktop\Java\DIO-CLARO\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3638243309.index
+1865797976.index
